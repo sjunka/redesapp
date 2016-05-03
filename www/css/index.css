@@ -1,0 +1,16 @@
+.banner,.map{
+    width:100%;
+}
+
+#demo h2 a {
+  font-size: 18px;
+  background-color: white;
+  display: block;
+  padding: 9px;
+  padding-left: 32px;
+  margin: 0;
+  color: black;
+  text-decoration: none;
+  font-weight: normal;
+  border-bottom: 1px solid #628066;
+}
